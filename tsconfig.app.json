@@ -3,7 +3,9 @@
   "compilerOptions": {
     "outDir": "./out-tsc/app",
     "types": []
+    
   },
+  "importHelpers": true,
   "files": [
     "src/main.ts",
     "src/polyfills.ts"
